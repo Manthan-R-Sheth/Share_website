@@ -177,17 +177,22 @@ if (x==null || x=="")
                                               <div id="gallery">
                                                   <div id="slider">
                                                           <div class="sliderdiv">
-                                                                 <div class="resarchsliderimagediv" style="left:12%"><img src="image/bulb.png" class="resarchsliderimage"  /><p> </p></div>
-                                                                 <div class="resarchsliderimagediv" style="left:72%"><img src="image/bulb.png" class="resarchsliderimage"  /><p> </p></div>
+                                                                 <div class="resarchsliderimagediv" style="left:12%"><img src="image/Amaan.jpg" class="resarchsliderimage"  /><p><h2>Amaan Mansuri</h2><br><br> Why India being a hot Medical Tourism Destination is seeing stiff competition from other countries? </p></div>
+                                                                 <div class="resarchsliderimagediv" style="left:72%"><img src="image/harsh.jpg" class="resarchsliderimage"  /><p><h2>Harsh Jain</h2><br><br> Indian Wind Energy Sector
+ </p></div>
                                                                  </div>
                                                           <div class="sliderdiv">
-                                                                  <div class="resarchsliderimagediv" style="left:12%;width:17%"><img src="image/bulb.png" class="resarchsliderimage"  /><p> </p></div>
-                                                                 <div class="resarchsliderimagediv" style="left:72%;width:17%"><img src="image/bulb.png" class="resarchsliderimage"  /><p> </p></div>
+                                                                  <div class="resarchsliderimagediv" style="left:12%;width:17%"><img src="image/pavel.jpg" class="resarchsliderimage"  /><p><h2>Pavel Gupta</h2><br><br> Mergers and Acquisitions in Telecom Sector in India
+ </p></div>
+                                                                 <div class="resarchsliderimagediv" style="left:72%;width:17%"><img src="image/subheycha.jpg" class="resarchsliderimage"  /><p><h2>Shubhechyya</h2><br><br> Civil Aviation Industry in India- It's Present and Future
+</p></div>
                                                   
                                                           </div>
                                                           <div class="sliderdiv">
-                                                            <div class="resarchsliderimagediv" style="left:12%;width:17%"><img src="image/bulb.png" class="resarchsliderimage"  /><p> </p></div>
-                                                            <div class="resarchsliderimagediv" style="left:72%;width:17%"><img src="image/bulb.png" class="resarchsliderimage"  /><p> </p></div>
+                                                            <div class="resarchsliderimagediv" style="left:12%;width:17%"><img src="image/surbhi.jpg" class="resarchsliderimage"  /><p><h2>Surbhi</h2><br><br> The scope of Telemedicine in India
+ </p></div>
+                                                            <div class="resarchsliderimagediv" style="left:72%;width:17%"><img src="image/rohan.jpg" class="resarchsliderimage"  /><p><h2>Rohan</h2><br><br> Mobile Banking in India
+ </p></div>
                                                           </div>
                                                 </div>
                                                    
