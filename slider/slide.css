@@ -1,0 +1,51 @@
+
+
+
+#gallery{
+  position:relative;
+  margin: 0 auto;
+  overflow:hidden;
+  width:100%;
+  height:100%;
+
+}
+#slider{
+  position:absolute;
+  left:0;
+  height:100%;
+}
+#slider > div {
+  position:relative;
+  float:left;
+  width:33.333333333%;
+  height:100%;
+}
+
+/* buttons */
+#gallery > span{
+  cursor:pointer;
+  position:absolute;
+  width:40px;
+  height:40px;
+  top:50%;
+  padding-top:-20px;
+  font-size:30px;
+  color:#222;
+  opacity:0.9;
+  background-color:#CCC;
+}
+#next{
+  right:0px;
+}
+#gallery > span:hover{
+  opacity:0.5;
+}
+    #myGallery img{
+      display:none;
+      width:100%;
+	  height:100%;
+	  
+    }
+    #myGallery img.active{
+      display:block;
+    }
